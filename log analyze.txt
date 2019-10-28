@@ -1,0 +1,7 @@
+log analyze.txt
+
+0s 17 ndn.ConsumerZipfMandelbrot:SendPacket(): [INFO ] > Interest for 71, Total: 1, face: 261
+
+0.0600059s 14 ndn.Producer:OnInterest(): [INFO ] node(14) responding with Data: /urjc/Movie/%FEG
+
+0.120222s 17 ndn.Consumer:OnData(): [INFO ] < DATA for 71
